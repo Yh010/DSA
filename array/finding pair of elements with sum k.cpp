@@ -27,4 +27,4 @@ int main()
    
    
 }
-//doubt : why 15 and -5 is getting counted and 10 is not counted
+//doubt : why 15 and -5 is getting counted 
